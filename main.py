@@ -6,8 +6,8 @@ import random
 
 EMAIL = "example@gmail.com"  # TODO-Must change to make code functional
 PASSWORD = "examplePassword"  # TODO- Must change to make code functional
-person_email = ""
-text_body = ""
+person_email = "example@gmail.com"
+text_body = "examplePassword"
 
 now = dt.datetime.now()
 date = now.day
